@@ -48,6 +48,11 @@ Vite build system
 
 
 Running project locally,
-npm install
+cd /project/
+- npm install
 
-npm run dev 
+cd /project/src/
+- npm run dev 
+
+building project (Upload dist folder to webhosting)
+- npm run build
